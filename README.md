@@ -1,1 +1,0 @@
-# com.zoller.vra.dynamic-drop-downs.package
